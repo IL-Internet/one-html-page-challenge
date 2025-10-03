@@ -30,6 +30,13 @@ const entries = [
     "github": "JDot555"
   },
   {
+    "title": "example entry",
+    "filename": "example_entry.html",
+    "description": "example entry by IL-Internet",
+    "author": "IL-Internet",
+    "github": "IL-Internet"
+  },
+  {
     "title": "2D Site Snackers",
     "filename": "2d-site-snacker.html",
     "description": "A swarm of creatures invades and consumes one page challenge sites!",
